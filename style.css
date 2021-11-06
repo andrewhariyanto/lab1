@@ -38,7 +38,7 @@ p{
     margin-right: auto;
 }
 
-#main_nav ul { padding: 0px; margin: 0; }
+#main_nav ul { padding: 50px; margin: 0; }
 
 #main_nav li  {
   list-style-type: none;
