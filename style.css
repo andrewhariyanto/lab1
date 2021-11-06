@@ -1,3 +1,7 @@
+#content {
+ padding: 3px;
+}
+
 header {
  font-family: Futura, Trebuchet MS;
  font-weight: bold condensed;
@@ -6,7 +10,7 @@ header {
  padding: 75px 50px;
 }
 
-body{
+body {
   font-family: Futura, Trebuchet MS;
   font-weight: condensed;
   color: black;
@@ -23,8 +27,4 @@ h1{
 
 p{
  padding: 75px 50px;
-}
-
-#content {
-    padding:70px;
 }
